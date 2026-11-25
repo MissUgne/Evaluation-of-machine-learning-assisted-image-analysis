@@ -1,4 +1,4 @@
-# Machine Learning Based Image Analysis of Microfibers Released from Synthetic Textile Materials
+# Evaluation of machine-learning-assisted image analysis workflow for textile microfibers released during washing
 
 *The research paper associated with this repository is still in progress. The data in this repository will be updated after publication of the article.*
 
