@@ -1,0 +1,7 @@
+object_id,timestep,labelimage_oid,User Label,Predicted Class,Probability of MP_black_fibers_edge,Probability of MP_black_particles,Probability of Incorect_segmantation,Probability of MP_black_fibers_short,Object Area,Size in pixels,Diameter,Bounding Box Minimum_0,Bounding Box Minimum_1,Bounding Box Maximum_0,Bounding Box Maximum_1,Center of the object_0,Center of the object_1
+0,0,1,0,MP_black_fibers_short,0.2,0.0,0.01,0.79,1758.0,1758.0,141.01219,819.0,20.0,852.0,149.0,832.0074,85.244026
+1,0,2,0,MP_black_particles,0.0,0.52,0.48,0.0,115.0,115.0,15.899495,779.0,307.0,792.0,319.0,785.6957,312.78262
+2,0,3,0,MP_black_particles,0.0,0.46,0.4,0.14,243.0,243.0,28.556349,939.0,516.0,956.0,538.0,947.4856,526.30865
+3,0,4,0,Incorect_segmantation,0.0,0.47,0.53,0.0,16.0,16.0,8.828427,103.0,528.0,106.0,537.0,104.1875,531.75
+4,0,5,0,MP_black_particles,0.0,0.84,0.16,0.0,99.0,99.0,13.485281,704.0,624.0,716.0,634.0,709.3131,628.3939
+5,0,6,0,MP_black_particles,0.0,0.73,0.27,0.0,124.0,124.0,13.656855,1120.0,906.0,1133.0,918.0,1126.0161,911.8629
