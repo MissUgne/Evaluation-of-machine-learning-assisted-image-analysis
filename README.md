@@ -1,6 +1,6 @@
 # Evaluation of machine-learning-assisted image analysis workflow for textile microfibers released during washing
 
-*The research paper associated with this repository is still in progress. The data in this repository will be updated after publication of the article.*
+All the data presented here is a part of the research article. The aim of this study was to introduce an accessible, machine learning-based method, using *ilastik* software, to measure textile origin microplastics. 
 
 ## Citation
 If you find our code or research useful for your work, please cite our paper:
@@ -8,13 +8,8 @@ If you find our code or research useful for your work, please cite our paper:
 *TBA after publication of the research article.*
 
 ## License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+The research article associated with this repository is subject to the license terms of the publishing journal *Environmental Pollution*.
 
-The research article associated with this repository will be subject to the license terms of the publishing journal. Data and supplementary materials will be updated after publication of the article.
+The data used for research article and shown in this repository is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-*The data in this repository are provided for transparency during review and should not be reused or redistributed until the article is published and the final license terms are specified.*
-
-## Contact
-For questions, please contact:
-
-*TBA after publication of the research article.*
+*The data in this repository are provided for transparency of research article and should not be reused or redistributed.*
