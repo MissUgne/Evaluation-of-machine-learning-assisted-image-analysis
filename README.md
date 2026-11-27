@@ -2,6 +2,18 @@
 
 All the data presented here is a part of the research article. The aim of this study was to introduce an accessible, machine learning-based method, using *ilastik* software, to measure textile origin microplastics. 
 
+## Requirements
+The code requires *Python* and the following libraries:
+
+- h5py
+- NumPy
+- Matplotlib
+
+Install them using:
+```bash
+pip install h5py numpy matplotlib
+```
+
 ## Citation
 If you find our code or research useful for your work, please cite our paper:
 
